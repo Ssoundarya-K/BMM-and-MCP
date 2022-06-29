@@ -1,1 +1,1 @@
-# BMM-and-MCP
+# Bipartite max cover and Matrix Chain Multiplication
